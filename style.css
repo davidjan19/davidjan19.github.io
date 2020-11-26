@@ -121,10 +121,7 @@ img{
     }
 }
 
-a{
-	text-decoration: none;
-	background-color: #59b2e3;
-	color: #fff;
-	border-radius: 10px;
-	font-size: 50px;
+.a{
+    float: left;
+    margin-left: 25%;
 }
